@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         HE Tools
-// @namespace    https://github.com/asylum4you/hext
+// @namespace    https://github.com/Asylum4You/hext/blob/master/HE%20Tools.user.js
 // @version      0.1
 // @description  Hacker Experience Adv Tools.
 // @author       AsylumServe (dev[at]a4u-labs.net)
