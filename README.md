@@ -1,5 +1,5 @@
 # HE Tools
-Advanced helper tools for Hacker Experience.
+Adv Tools 4 HE.
 ## Features
 * Auto hide-me automatically removes log entries containing the local IP and saves the log.
 * Automatically switch to internet log after successful upload, download, install, hidden, seeked, and virus removal.
